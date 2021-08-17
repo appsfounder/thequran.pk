@@ -1,0 +1,21 @@
+{ 
+    "quaids": [
+    {
+    
+    "name": "Qaida-One",
+    "matchingWord" : "مَلِ",
+    "color" : "red",
+    "description": "This is the first Quaida"
+ },
+ {
+   "name": "Qaida-three",
+   "matchingWord" : "ن ش",
+   "color" : "green",
+   "description": "This is the third Quaida"
+ }
+
+
+
+]
+
+}
