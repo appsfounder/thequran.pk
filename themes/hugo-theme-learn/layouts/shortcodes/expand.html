@@ -12,6 +12,33 @@
     	</span>
     </div>
     <div class="expand-content" style="display: none; font-size: 25px;">
-        {{.Inner | safeHTML}}
+        {{ $comString := .Inner | plainify}}
+
+
+        {{range split $comString ","}}
+
+           {{ if hasPrefix . "q" }} 
+
+           <audio controls preload="preload">
+            <source src="/media/{{ . | relURL }}" type="audio/mpeg">
+          </audio>
+
+           {{else}}
+
+           <p>{{.}}</p>
+
+           
+           
+        {{end}}
+
+
+        <br/>
+
+        {{end}}
+
+
+
+
+
     </div>
 </div>
