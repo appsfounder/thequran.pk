@@ -2,16 +2,18 @@
     "quaids": [
     {
     
-    "name": "Qaida-One",
-    "matchingWord" : "مَلِ",
+    "name": "Haroof-mustalia",
+    "matchingWord" : "ق",
+    "voice" : "q1.mp3",
     "color" : "red",
-    "description": "This is the first Quaida"
+    "description": "ق: حروف مستعلیہ"
  },
  {
-   "name": "Qaida-three",
-   "matchingWord" : "ن ش",
+   "name": "Haroof-e-Mada",
+   "matchingWord" : "ُو",
+   "voice" : "q2.mp3",
    "color" : "green",
-   "description": "This is the third Quaida"
+   "description": "ـُ و٘ :  حروف مدہ"
  }
 
 
