@@ -156,6 +156,13 @@
   "color" : "green",
   "description": "د٘ : حروف قلقلہ"
 },
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ت",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
 
 
 {
