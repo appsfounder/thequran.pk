@@ -79,5 +79,33 @@
         </script>
     {{ end }}
     {{ partial "custom-footer.html" . }}
+
+
+    <script>
+        var button = document.getElementById("button");
+            var audio = document.getElementById("player");
+
+            button.addEventListener("click", function(){
+            if(audio.paused){
+                audio.play();
+                button.innerHTML = '<i style="font-size:x-medium; color: #ff7c5c;" class="fas fa-pause"></i>';
+            } else {
+                audio.pause();
+                button.innerHTML = '<i style="font-size:x-medium; color: #ff7c5c;" class="fas fa-play"></i>';
+            }
+            });
+
+
+    </script>
+
+
+
+
+
+
+
+
+
+
   </body>
 </html>

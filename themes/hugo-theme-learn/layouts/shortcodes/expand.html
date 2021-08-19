@@ -1,5 +1,5 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class="expand">
+<div class="expand" dir="rtl">
     <div class="expand-label" style="cursor: pointer; box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px; margin-top: 30px; padding: 10px 0px 10px 0px" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
         
         <i style="font-size:xx-large; background-color: #f7f7f7; border-right: solid 6px #ff7c5c; color: #ff7c5c; padding: 30px 23px 20px 23px; margin-left: 20px; box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);" class="fas fa-chevron-down"></i>
@@ -16,6 +16,7 @@
 
         
     </div>
+    
     <div class="expand-content" style="display: none; font-size: 25px;">
         {{ $comString := .Inner | plainify}}
 
@@ -25,10 +26,14 @@
            {{ if hasPrefix . "q" }} 
 
            <span >
-           <audio controls preload="preload">
-            <source src="/media/{{ . | relURL }}" type="audio/mpeg">
-          </audio>
+        
           
+            <button id="button" style="border-radius: 50%; border: none; padding: 15px 20px 15px 20px; margin: 4px 2px;"><i style="font-size:x-medium; color: #ff7c5c;" class="fas fa-play"></i></button>
+          
+          
+          <audio id="player">
+            <source src='/media/{{ . | relURL }}' type='audio/mpeg'/>
+          </audio>
         </span>
 
            {{else}}
