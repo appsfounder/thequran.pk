@@ -14,7 +14,77 @@
    "voice" : "q2.mp3",
    "color" : "green",
    "description": "ـُ و٘ :  حروف مدہ"
- }
+ },
+ {
+  "name": "Haroof-mustalia",
+  "matchingWord" : "خ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "خ: حروف مستعلیہ"
+},
+{
+  "name": "Haroof-mustalia",
+  "matchingWord" : "ص",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ص: حروف مستعلیہ"
+},
+{
+  "name": "Haroof-mustalia",
+  "matchingWord" : "ض",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ض: حروف مستعلیہ"
+},
+{
+  "name": "Haroof-mustalia",
+  "matchingWord" : "ط",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ط: حروف مستعلیہ"
+},
+{
+  "name": "Haroof-mustalia",
+  "matchingWord" : "ظ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ظ: حروف مستعلیہ"
+},
+{
+  "name": "Haroof-mustalia",
+  "matchingWord" : "غ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ُغ: حروف مستعلیہ"
+},
+{
+  "name": "Haroof-e-Mada",
+  "matchingWord" : "َا",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ـَ ا :  حروف مدہ"
+},
+{
+  "name": "Haroof-e-Mada",
+  "matchingWord" : "ِی",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ـِ ی :  حروف مدہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "ب٘",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "بّ: حروف قلقلہ"
+},
+{
+  "name": "Noon-mushdad",
+  "matchingWord" : "نّ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "نّ: ن اور م اگر تشدید کے ساتھ ہوں تو گونا کریں گے"
+}
 
 
 
