@@ -1,6 +1,6 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 <div class="expand">
-    <div class="expand-label" style="cursor: pointer; border-bottom: 2px solid #f7f7f7; margin-top: 30px; padding: 10px 0px 10px 0px" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+    <div class="expand-label" style="cursor: pointer; box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px; margin-top: 30px; padding: 10px 0px 10px 0px" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
         
         <i style="font-size:xx-large; background-color: #f7f7f7; border-right: solid 6px #ff7c5c; color: #ff7c5c; padding: 30px 23px 20px 23px; margin-left: 20px; box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);" class="fas fa-chevron-down"></i>
         
@@ -24,20 +24,22 @@
 
            {{ if hasPrefix . "q" }} 
 
+           <span >
            <audio controls preload="preload">
             <source src="/media/{{ . | relURL }}" type="audio/mpeg">
           </audio>
+          
+        </span>
 
            {{else}}
 
-           <p>{{.}}</p>
+           <span >{{.}}</span>
 
            
            
         {{end}}
 
 
-        <br/>
 
         {{end}}
 

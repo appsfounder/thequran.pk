@@ -9,13 +9,6 @@
     "description": "ق: حروف مستعلیہ"
  },
  {
-   "name": "Haroof-e-Mada",
-   "matchingWord" : "ُو",
-   "voice" : "q2.mp3",
-   "color" : "green",
-   "description": "ـُ و٘ :  حروف مدہ"
- },
- {
   "name": "Haroof-mustalia",
   "matchingWord" : "خ",
   "voice" : "q2.mp3",
@@ -72,12 +65,99 @@
   "description": "ـِ ی :  حروف مدہ"
 },
 {
+  "name": "Haroof-e-Mada",
+  "matchingWord" : "ُو",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ـُ و٘ :  حروف مدہ"
+},
+{
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ب٘",
   "voice" : "q2.mp3",
   "color" : "green",
   "description": "بّ: حروف قلقلہ"
 },
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "ب٘",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "بّ: حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "ب٘",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "بّ: حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "قّ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "قّ: حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "طّ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "طّ: حروف قلقلہ"
+},
+
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "جّ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "جّ: حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "دّ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "دّ: حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "ق٘",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ق٘ : حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "ط٘ ",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ط٘ : حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "ب٘",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ب٘ : حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "ج٘",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "ج٘ : حروف قلقلہ"
+},
+{
+  "name": "Haroof-e-Qalqla",
+  "matchingWord" : "د٘",
+  "voice" : "q2.mp3",
+  "color" : "green",
+  "description": "د٘ : حروف قلقلہ"
+},
+
+
 {
   "name": "Noon-mushdad",
   "matchingWord" : "نّ",
