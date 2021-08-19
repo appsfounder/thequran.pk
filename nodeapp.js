@@ -58,7 +58,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
 
     var frontMatter =   '---\ntitle: "' + arr[index].name + '"\ndraft: false\n---\n';
 
-    fs.writeFile('content/surah-'+ arr[index].index +'.md',(frontMatter).concat(quaidProJsonFile) , function (err, result) {
+    fs.writeFile('content/basics/surah-'+ arr[index].index +'.md',(frontMatter).concat(quaidProJsonFile) , function (err, result) {
         if (err) console.log('error', err);
     });
         
