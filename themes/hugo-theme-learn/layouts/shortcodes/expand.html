@@ -1,11 +1,11 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class="expand" dir="rtl">
-    <div class="expand-label" style="cursor: pointer; box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px; margin-top: 30px; padding: 10px 0px 10px 0px" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+<div class="expand" style="box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px, rgba(255, 255, 255, 0.25) 0px 1px 0px inset;" dir="rtl">
+    <div class="expand-label" style="cursor: pointer; margin-top: 30px; padding: 10px 0px 10px 0px" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
         
-        <i style="font-size:xx-large; background-color: #f7f7f7; border-right: solid 6px #ff7c5c; color: #ff7c5c; padding: 30px 23px 20px 23px; margin-left: 20px; box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);" class="fas fa-chevron-down"></i>
+        <i style="font-size:x-medium;  border-radius: 50%; background-color: #f7f7f7; border-right: solid 6px #ff7c5c; color: #ff7c5c; padding: 15px 12px 12px 15px; margin-left: 20px; box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);" class="fas fa-chevron-right"></i>
         
         
-        <span style="font-size: 50px;">
+        <span >
         {{$expandMessage := T "Expand-title"}}
     	{{ if .IsNamedParams }}
     	      {{.Get "default" | default $expandMessage}}

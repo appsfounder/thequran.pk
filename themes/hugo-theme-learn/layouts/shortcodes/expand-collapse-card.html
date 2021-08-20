@@ -1,0 +1,47 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+
+<div class="card" onclick="this.classList.toggle('expanded')">
+    <h2 class="label">{{$expandMessage := T "Expand-title"}}
+    	{{ if .IsNamedParams }}
+    	      {{.Get "default" | default $expandMessage}}
+    	{{else}}
+    	    {{.Get 0 | default $expandMessage}}
+    	{{end}}</h2>
+    <div class="text1">
+      <div class="text-content">
+        {{ $comString := .Inner | plainify}}
+
+
+        {{range split $comString ","}}
+
+           {{ if hasPrefix . "q" }} 
+
+           <span >
+        
+          
+            <button id="button" style="border-radius: 50%; border: none; padding: 15px 20px 15px 20px; margin: 4px 2px;"><i style="font-size:x-medium; color: #ff7c5c;" class="fas fa-play"></i></button>
+          
+          
+          <audio id="player">
+            <source src='/media/{{ . | relURL }}' type='audio/mpeg'/>
+          </audio>
+        </span>
+
+           {{else}}
+
+           <span >{{.}}</span>
+
+           
+           
+        {{end}}
+
+
+
+        {{end}}
+
+      </div>
+    </div>
+    <svg class="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 35" width="30"><path d="M5 30L50 5l45 25" fill="none" stroke="#000" stroke-width="5"/></svg>
+  </div>
+  

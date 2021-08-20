@@ -1,0 +1,16 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<div dir="rtl" style="margin-top: 30px">
+    
+    
+<span style="font-size: 40px;">{{.Inner | plainify}}</span>
+<span>{{$expandMessage := T "Expand-title"}}
+    {{ if .IsNamedParams }}
+          {{.Get "default" | default $expandMessage}}
+    {{else}}
+        {{.Get 0 | default $expandMessage}}
+    {{end}}
+</span>
+
+
+</div>
