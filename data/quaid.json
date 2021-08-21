@@ -164,12 +164,322 @@
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ث",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ج",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ د",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ذ",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ز",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ س",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ش",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ص",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ض",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ط",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ظ",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ف",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ق",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ن٘ ک",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ت",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ث",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ج",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً د",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ذ",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ز",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً س",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ش",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ص",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ض",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ط",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ظ",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ف",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ق",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ً ک",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ت",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ث",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ج",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ د",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ذ",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ز",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ س",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ش",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ص",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ض",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ط",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ظ",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ف",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ق",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+{
+  "name": "Haroof-e-Ikfa",
+  "matchingWord" : "ٍ ک",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": " ن٘:  اخفاء ن ساکن اور تنوین"
+},
+
+{
   "name": "Noon-mushdad",
   "matchingWord" : "نّ",
   "voice" : "q1.mp3",
   "color" : "green",
   "description": "نّ: ن اور م اگر تشدید کے ساتھ ہوں تو گونا کریں گے"
 }
+
 
 
 

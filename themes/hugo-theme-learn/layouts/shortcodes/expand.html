@@ -17,38 +17,46 @@
         
     </div>
     
-    <div class="expand-content" style="display: none; font-size: 25px;">
+    <div class="expand-content" style="display: none; font-size: 20px;">
         {{ $comString := .Inner | plainify}}
 
-
+      <table >
+      <tr>
+      <th style="text-align: center;">قوائد</th>
+      <th style="text-align: center;">وضاحت</th>
+      </tr>
         {{range split $comString ","}}
+        
 
            {{ if hasPrefix . "q" }} 
 
-           <span >
+           
         
-          
-            <button id="button" style="border-radius: 50%; border: none; padding: 15px 20px 15px 20px; margin: 4px 2px;"><i style="font-size:x-medium; color: #ff7c5c;" class="fas fa-play"></i></button>
+            <td style="text-align: center;">
+            <button id="button" style="border-radius: 50%; background-color: #f7f7f7;  color: #ff7c5c;    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);"><i style="font-size:x-small; padding-right: 10px; padding-left: 10px; padding-bottom: 15px; color: #ff7c5c;" class="fas fa-play"></i></button>
           
           
           <audio id="player">
             <source src='/media/{{ . | relURL }}' type='audio/mpeg'/>
           </audio>
-        </span>
+        </td>
+        </tr>
+            
 
            {{else}}
 
-           <span >{{.}}</span>
+          <tr>
+           <td> {{.}}</td>
 
            
            
         {{end}}
 
-
+      
 
         {{end}}
 
-
+      </table>
 
 
 
