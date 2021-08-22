@@ -1,0 +1,31 @@
+@font-face {
+    font-family: arabic-fonts;
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/arabic-fonts.woff2?#iefix) format('woff2'), url(../fonts/arabic-fonts.woff) format('woff'), url(../fonts/arabic-fonts.ttf) format('truetype');
+  } 
+
+
+.ayah-text{
+
+font-family: arabic-fonts, Helvetica, sans-serif;
+margin-top: 30px;
+
+}  
+
+.ayah {
+    font-family: arabic-fonts, Helvetica, sans-serif;
+    padding: 0 .5em;
+    display: inline-block;
+    position: relative;
+  }
+  
+  .ayah::after {
+    content: "\06DD";
+    display: block;
+    position: absolute;
+    font-size: 1.5em;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+  }

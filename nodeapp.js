@@ -49,7 +49,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
             });
 
 
-            quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"Number"%}}' + ayaArr[ayaIndex].text + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ فوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
+            quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"'+ ayaArr[ayaIndex].index +'"%}}' + ayaArr[ayaIndex].text + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ فوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
 
 
             

@@ -1,14 +1,14 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 
-<div dir="rtl" style="margin-top: 30px">
+<div dir="rtl"  class="ayah-text">
     
     
 <span style="font-size: 28px;">{{.Inner | plainify}}</span>
 <span>{{$expandMessage := T "Expand-title"}}
     {{ if .IsNamedParams }}
-          {{.Get "default" | default $expandMessage}}
+    <span class="ayah"> {{.Get "default" | default $expandMessage}}</span>
     {{else}}
-        {{.Get 0 | default $expandMessage}}
+    <span class="ayah">{{.Get 0 | default $expandMessage}}</span>
     {{end}}
 </span>
 
