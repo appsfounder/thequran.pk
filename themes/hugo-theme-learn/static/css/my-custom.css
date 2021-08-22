@@ -24,8 +24,8 @@ margin-top: 30px;
     content: "\06DD";
     display: block;
     position: absolute;
-    font-size: 1.5em;
-    top: 50%;
+    font-size: 2em;
+    top: 40%;
     left: 50%;
     transform: translate( -50%, -50%);
   }
