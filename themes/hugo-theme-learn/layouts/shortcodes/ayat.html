@@ -16,8 +16,9 @@
                 {{ $matchWords :=  .matchingWord}}
 
                 {{ $splitedArray := split $coloredAyat $matchWords }}
+                {{ $color := .color }}
 
-                {{ $replacement := printf "%s%s%s" "<span style='color: red'>" $matchWords "</span>" }}
+                {{ $replacement := printf "%s%s%s%s%s" "<span style='color:" $color "'>" $matchWords "</span>" }}
 
                 {{ $coloredAyat =  delimit $splitedArray $replacement }}
 
