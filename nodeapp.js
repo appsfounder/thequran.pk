@@ -25,6 +25,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
     arr[index].aya.forEach(function(item, ayaIndex, ayaArr){
         
             var quaidContent = " ";
+            var coloredAaya = ayaArr[ayaIndex].text;
 
             //Check Quaid
             allQuaidFromJson.quaids.forEach(function(itm, ind, ar){
@@ -37,10 +38,23 @@ function loopFunctionForMDGenerator(item, index, arr) {
                     if(quaidContent == " "){
                         
                         quaidContent = ar[ind].description + "," + ar[ind].voice;
+
+                        //var spl = coloredAaya.split(ar[ind].matchingWord);
+
+                        //coloredAaya = spl.join(' {{%ayacolor "red" %}} '+ ar[ind].matchingWord +' {{% /ayacolor%}} ');
+                        //console.log(coloredAaya);
+                        
+
                     
                     }else{
 
                         quaidContent = quaidContent + "," +  ar[ind].description + "," + ar[ind].voice;
+                        
+                        //var spl = coloredAaya.split(ar[ind].matchingWord);
+
+                        //coloredAaya = spl.join(' {{%ayacolor "red" %}} '+ ar[ind].matchingWord+' {{% /ayacolor%}} ');
+
+                        //console.log(coloredAaya);
                     
                     }
                 }
@@ -48,6 +62,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
 
             });
 
+            //quaidProJsonFile = quaidProJsonFile + coloredAaya + '{{%ayanumber "Hello" %}}' + ayaArr[ayaIndex].index + '{{% /ayanumber%}}' + '{{%expand "'+ "آیت میں استعمال شدہ فوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
 
             quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"'+ ayaArr[ayaIndex].index +'"%}}' + ayaArr[ayaIndex].text + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ فوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
 
