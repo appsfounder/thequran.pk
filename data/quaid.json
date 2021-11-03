@@ -5,105 +5,105 @@
     "name": "Haroof-mustalia",
     "matchingWord" : "ق",
     "voice" : "q1.mp3",
-    "color" : "#FF5733",
+    "color" : "#c00000",
     "description": "ق: حروف مستعلیہ"
  },
  {
   "name": "Haroof-mustalia",
   "matchingWord" : "خ",
   "voice" : "q1.mp3",
-  "color" : "#FF5733",
+  "color" : "#c00000",
   "description": "خ: حروف مستعلیہ"
 },
 {
   "name": "Haroof-mustalia",
   "matchingWord" : "ص",
   "voice" : "q1.mp3",
-  "color" : "#FF5733",
+  "color" : "#c00000",
   "description": "ص: حروف مستعلیہ"
 },
 {
   "name": "Haroof-mustalia",
   "matchingWord" : "ض",
   "voice" : "q1.mp3",
-  "color" : "#FF5733",
+  "color" : "#c00000",
   "description": "ض: حروف مستعلیہ"
 },
 {
   "name": "Haroof-mustalia",
   "matchingWord" : "ط",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#c00000",
   "description": "ط: حروف مستعلیہ"
 },
 {
   "name": "Haroof-mustalia",
   "matchingWord" : "ظ",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#c00000",
   "description": "ظ: حروف مستعلیہ"
 },
 {
   "name": "Haroof-mustalia",
   "matchingWord" : "غ",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#c00000",
   "description": "ُغ: حروف مستعلیہ"
 },
 {
   "name": "Haroof-e-Mada",
   "matchingWord" : "َا",
   "voice" : "q1.mp3",
-  "color" : "#61FF33",
+  "color" : "#12ab5c",
   "description": "ـَ ا :  حروف مدہ"
 },
 {
   "name": "Haroof-e-Mada",
   "matchingWord" : "ِی",
   "voice" : "q1.mp3",
-  "color" : "#61FF33",
+  "color" : "#12ab5c",
   "description": "ـِ ی :  حروف مدہ"
 },
 {
   "name": "Haroof-e-Mada",
   "matchingWord" : "ُو",
   "voice" : "q1.mp3",
-  "color" : "#61FF33",
+  "color" : "#12ab5c",
   "description": "ـُ و٘ :  حروف مدہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ب٘",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "بّ: حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ب٘",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "بّ: حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ب٘",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "بّ: حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "قّ",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "قّ: حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "طّ",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "طّ: حروف قلقلہ"
 },
 
@@ -111,364 +111,364 @@
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "جّ",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "جّ: حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "دّ",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "دّ: حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ق٘",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "ق٘ : حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ط٘ ",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "ط٘ : حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ب٘",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "ب٘ : حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "ج٘",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "ج٘ : حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Qalqla",
   "matchingWord" : "د٘",
   "voice" : "q1.mp3",
-  "color" : "#33FFF3",
+  "color" : "#12b3f0",
   "description": "د٘ : حروف قلقلہ"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ت",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ث",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ج",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ د",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ذ",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ز",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ س",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ش",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ص",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ض",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ط",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ظ",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ف",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ق",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ن٘ ک",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ت",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ث",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ج",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً د",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ذ",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ز",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً س",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ش",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ص",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ض",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ط",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ظ",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ف",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ق",
   "voice" : "q1.mp3",
-  "color" : "#33A2FF",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ً ک",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ت",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ث",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ج",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ د",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ذ",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ز",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ س",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ش",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ص",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ض",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ط",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ظ",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ف",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ق",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 {
   "name": "Haroof-e-Ikfa",
   "matchingWord" : "ٍ ک",
   "voice" : "q1.mp3",
-  "color" : "green",
+  "color" : "#984806",
   "description": " ن٘:  اخفاء ن ساکن اور تنوین"
 },
 
@@ -478,6 +478,751 @@
   "voice" : "q1.mp3",
   "color" : "green",
   "description": "نّ: ن اور م اگر تشدید کے ساتھ ہوں تو گونا کریں گے"
+},
+{
+  "name": "Khari-Harqaat",
+  "matchingWord" : "ٰ",
+  "voice" : "q1.mp3",
+  "color" : "#31859b",
+  "description": "Khari Harqaat"
+},
+{
+  "name": "Khari-Harqaat",
+  "matchingWord" : "ٗ",
+  "voice" : "q1.mp3",
+  "color" : "#31859b",
+  "description": "Khari Harqaat"
+},
+{
+  "name": "Haroof-e-leen",
+  "matchingWord" :"َوْ",
+  "voice" : "q1.mp3",
+  "color" : "#008000",
+  "description": "Haroof-e-leen"
+}
+
+,
+{
+  "name": "Haroof-e-leen",
+  "matchingWord" :"ََىْ",
+  "voice" : "q1.mp3",
+  "color" : "#008000",
+  "description": "Haroof-e-leen"
+}
+,
+{
+  "name": "Hamza Sakna",
+  "matchingWord" :"ََاْ",
+  "voice" : "q1.mp3",
+  "color" : "green",
+  "description": "Haroof-e-leen"
+}
+,
+{
+  "name": "Hamza Sakna",
+  "matchingWord" :"ََاْ",
+  "voice" : "q1.mp3",
+  "color" : "#008080",
+  "description": "Haroof-e-leen"
+}
+
+,
+{
+  "name": "Hamza Sakna",
+  "matchingWord" :"َََءْ",
+  "voice" : "q1.mp3",
+  "color" : "#008080",
+  "description": "Haroof-e-leen"
+} 
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :"نْ ء",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :"نْ ھ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :"نْ ع",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :"نْ ح",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :"نْ غ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :"نْ خ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ًء",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ًھ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ًع",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ًح",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ًغ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ًخ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٍء",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٍھ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٍع",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٍح",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٍغ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٍخ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٌء",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٌھ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٌع",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٌح",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٌغ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Izhar",
+  "matchingWord" :" ٌخ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٌخ",
+  "voice" : "q1.mp3",
+  "color" : "#FF0000",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :"نْ ى",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :"نْ ر",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :"نْ م",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :"نْ ل",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :"نْ و",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :"نْ ن",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ًى",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ًر",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ًم",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ًل",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ًو",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ًن",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٍى",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٍر",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٍم",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٍل",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٍو",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٍن",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٌى",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٌر",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٌم",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٌل",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٌو",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Idgham",
+  "matchingWord" :" ٌن",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Iqlab",
+  "matchingWord" :"نْ ب",
+  "voice" : "q1.mp3",
+  "color" : "#800080",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Iqlab",
+  "matchingWord" :" ًب",
+  "voice" : "q1.mp3",
+  "color" : "#800080",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Iqlab",
+  "matchingWord" :" ٍب",
+  "voice" : "q1.mp3",
+  "color" : "#800080",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Haroof-e-Iqlab",
+  "matchingWord" :" ٌب",
+  "voice" : "q1.mp3",
+  "color" : "#800080",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Idgam-e-shafvi",
+  "matchingWord" :"مْ م",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Ikfaa-e-shafvi",
+  "matchingWord" :"مْ ب",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ا",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ت",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ث",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ج",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ح",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ت",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ د",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ د",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ر",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ز",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ س",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ش",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ص",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ض",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ط",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ظ",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ع",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ غ",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ف",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Izhar-e-Shafvi"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ق",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ك",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ل",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ن",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ھ",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ و",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ء",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
+, 
+{
+  "name": "Izhar-e-Shafvi",
+  "matchingWord" :"مْ ى",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
 }
 
 
