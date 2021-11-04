@@ -34,7 +34,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
                 
         
                 if(ayaArr[ayaIndex].text.includes(ar[ind].matchingWord)){
-                    console.log('Quaid Matched ' + ar[ind].name + 'Successfully!');
+                    console.log('Quaid Matched ' + ar[ind].name + ' Successfully!');
                     if(quaidContent == " "){
                         
                         quaidContent = ar[ind].description + "," + ar[ind].voice;
@@ -62,18 +62,18 @@ function loopFunctionForMDGenerator(item, index, arr) {
 
             });
 
-            //quaidProJsonFile = quaidProJsonFile + coloredAaya + '{{%ayanumber "Hello" %}}' + ayaArr[ayaIndex].index + '{{% /ayanumber%}}' + '{{%expand "'+ "آیت میں استعمال شدہ فوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
+            //quaidProJsonFile = quaidProJsonFile + coloredAaya + '{{%ayanumber "Hello" %}}' + ayaArr[ayaIndex].index + '{{% /ayanumber%}}' + '{{%expand "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
 
-            quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"'+ ayaArr[ayaIndex].index +'"%}}' + ayaArr[ayaIndex].text + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ فوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
+            quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"'+ ayaArr[ayaIndex].index +'"%}}' + ayaArr[ayaIndex].text + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
 
 
             
 
     });
 
-    var frontMatter =   '---\ntitle: "' + arr[index].index  + " " + arr[index].name + '"\ndraft: false\n---\n';
+    var frontMatter =   '---\ntitle: "' + "سورة " + arr[index].name  + '"\ndraft: false\n---\n';
 
-    fs.writeFile('content/basics/surah-'+ arr[index].index +'.md',(frontMatter).concat(quaidProJsonFile) , function (err, result) {
+    fs.writeFile('content/surah/surah-'+ arr[index].index +'.md',(frontMatter).concat(quaidProJsonFile) , function (err, result) {
         if (err) console.log('error', err);
     });
         
