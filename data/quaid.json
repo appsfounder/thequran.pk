@@ -1203,6 +1203,14 @@
   "color" : "#FF00FF",
   "description": "مْ ى:اظہار شفوی میم ساکن کے بعد ب اور م کے علاؤہ کوئی بھی حرف آ جائے تو میم ساکن میں اظہار شفوی ہوگا یعنی غنہ نہیں کریں گے"
 }
+, 
+{
+  "name": "Haroof-e-leen",
+  "matchingWord" :"َيْ",
+  "voice" : "q1.mp3",
+  "color" : "#FF00FF",
+  "description": "Haroof-e-leen"
+}
 
 
 
