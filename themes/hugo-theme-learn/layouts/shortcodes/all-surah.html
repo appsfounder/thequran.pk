@@ -1,0 +1,15 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<div class="row">
+    {{ $surah := site.Data.surat.surat }}
+        {{ range $surah }}
+            <div class="column">
+            <div class="card" style="  direction: rtl;">
+                <a href="/surah/surah-{{.surah}}">
+                <p>{{.surah}} سورة {{.name}}</p>
+                </a>
+
+            </div>
+            </div>
+        {{ end }}
+</div>
