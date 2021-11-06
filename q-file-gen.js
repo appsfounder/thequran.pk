@@ -40,7 +40,7 @@ productCatalogFromJson.result.text.forEach(obj => {
                 console.log('Quaid Matched ' + ar[ind].name + ' Successfully!');
                 if(quaidContent == " "){
                     
-                    quaidContent = ar[ind].description + "," + ar[ind].voice;
+                    quaidContent = ar[ind].description + "," + ar[ind].color;
 
                     //var spl = coloredAaya.split(ar[ind].matchingWord);
 
@@ -51,7 +51,7 @@ productCatalogFromJson.result.text.forEach(obj => {
                 
                 }else{
 
-                    quaidContent = quaidContent + "," +  ar[ind].description + "," + ar[ind].voice;
+                    quaidContent = quaidContent + "," +  ar[ind].description + "," + ar[ind].color;
                     
                     //var spl = coloredAaya.split(ar[ind].matchingWord);
 
