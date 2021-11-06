@@ -1,6 +1,6 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class="expand" style="box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px, rgba(255, 255, 255, 0.25) 0px 1px 0px inset;" dir="rtl">
-    <div class="expand-label" style="cursor: pointer; margin-top: 30px; padding: 10px 0px 10px 0px" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+<div class="expand urdu-fonts" style="box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px, rgba(255, 255, 255, 0.25) 0px 1px 0px inset;" dir="rtl">
+    <div class="expand-label urdu-fonts" style="cursor: pointer; margin-top: 30px; padding: 10px 0px 10px 0px" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
         
         <i style="font-size:x-medium;  border-radius: 50%; background-color: #f7f7f7; border-right: solid 6px #ff7c5c; color: #ff7c5c; padding: 15px 12px 12px 15px; margin-left: 20px; box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);" class="fas fa-chevron-right"></i>
         
@@ -17,13 +17,13 @@
         
     </div>
     
-    <div class="expand-content" style="display: none; font-size: 20px;">
+    <div class="expand-content urdu-fonts" style="display: none; font-size: 20px;">
         {{ $comString := .Inner | plainify}}
 
       <table >
       <tr>
-      <th style="text-align: center;">قوائد</th>
-      <th style="text-align: center;">وضاحت</th>
+      <th class="urdu-fonts" style="text-align: center;">قوائد</th>
+      <th class="urdu-fonts" style="text-align: center;">وضاحت</th>
       </tr>
         {{range split $comString ","}}
         
@@ -32,7 +32,7 @@
 
            
         
-            <td style="text-align: center;">
+            <td class="urdu-fonts" style="text-align: center;">
             <button id="button" style="border-radius: 50%; background-color: #f7f7f7;  color: #ff7c5c;    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);"><i style="font-size:x-small; padding-right: 10px; padding-left: 10px; padding-bottom: 15px; color: #ff7c5c;" class="fas fa-play"></i></button>
           
           

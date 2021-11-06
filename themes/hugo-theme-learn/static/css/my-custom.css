@@ -1,9 +1,23 @@
 @font-face {
     font-family: arabic-fonts;
     font-weight: 400;
+    font-size: 30px;
     font-style: normal;
-    src: url(../fonts/arabic-fonts.woff2?#iefix) format('woff2'), url(../fonts/arabic-fonts.woff) format('woff'), url(../fonts/arabic-fonts.ttf) format('truetype');
+    src: url(../fonts/Al-Qalam-Quran-Majeed-Web-Regular.woff?#iefix) format('woff'), url(../fonts/Al-Qalam-Quran-Majeed-Web-Regular.woff) format('woff'), url(../fonts/Al-Qalam-Quran-Majeed-Web-Regular.ttf) format('truetype');
   } 
+
+  @font-face {
+    font-family: noor-fonts;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    src: url(../fonts/Jameel-Noori-Nastaleeq-Kasheeda.woff?#iefix) format('woff'), url(../fonts/Jameel-Noori-Nastaleeq-Kasheeda.woff) format('woff'), url(../fonts/Jameel-Noori-Nastaleeq-Kasheeda.ttf) format('truetype');
+  }   
+
+  .urdu-fonts{
+    font-family: noor-fonts, Helvetica, sans-serif;
+
+  }
 
 
 .ayah-text{
