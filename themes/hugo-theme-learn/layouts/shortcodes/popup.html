@@ -13,13 +13,17 @@
         <!-- Modal content -->
         <div class="modal-content urdu-fonts" dir="rtl">
             <span class="close close_multi">×</span>
-            <p style="text-align: center; font-weight: bold;">آیت میں استعمال شدہ قوائد</p>
+            <h4 style="text-align: center; font-weight: bold;">آیت میں استعمال شدہ قوائد</h4>
+
+            <div style="overflow-x:auto;">
+
 
             <table >
                 <tr>
                 <th class="urdu-fonts" style="text-align: center;">قوائد</th>
                 <th class="urdu-fonts" style="text-align: center;">رنگ</th>
                 </tr>
+                
                   {{range split $comString ","}}
                   
           
@@ -29,7 +33,7 @@
                   
                       <td class="urdu-fonts" style="text-align: center;">
           
-                        <div style="width: 50px; height: 50px; background-color: {{ .  }}; border-radius: 50%;"></div>
+                        <div style="width: 20px; height: 20px; background-color: {{ .  }}; border-radius: 50%;"></div>
                     
                     <!--
           
@@ -43,15 +47,13 @@
                  
                  
                   </td>
-                  </tr>
-                      
-          
+                </tr>
+                <!-- End Row -->
+                    
+
                      {{else}}
-          
-                    <tr>
-                     <td> {{.}}</td>
-          
-                     
+                     <tr>
+                     <td><p> {{.}}</p></td>
                      
                   {{end}}
           
@@ -62,7 +64,7 @@
                 </table>
 
 
-
+                </div>
 
 
         </div>

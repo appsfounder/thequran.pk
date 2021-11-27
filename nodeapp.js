@@ -37,7 +37,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
                     console.log('Quaid Matched ' + ar[ind].name + ' Successfully!');
                     if(quaidContent == " "){
                         
-                        quaidContent = ar[ind].description + "," + ar[ind].voice;
+                        quaidContent = ar[ind].description + "," + ar[ind].color;
 
                         //var spl = coloredAaya.split(ar[ind].matchingWord);
 
@@ -48,7 +48,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
                     
                     }else{
 
-                        quaidContent = quaidContent + "," +  ar[ind].description + "," + ar[ind].voice;
+                        quaidContent = quaidContent + "," +  ar[ind].description + "," + ar[ind].color;
                         
                         //var spl = coloredAaya.split(ar[ind].matchingWord);
 

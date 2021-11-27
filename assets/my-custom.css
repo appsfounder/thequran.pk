@@ -141,3 +141,10 @@ margin-top: 30px;
 .myBtn_multi{
   background-color: #ebd6ae;
 }
+h1{
+
+  display: none;
+}
+#top-bar{
+  display: none;
+}
