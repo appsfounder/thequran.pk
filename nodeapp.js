@@ -64,7 +64,7 @@ function loopFunctionForMDGenerator(item, index, arr) {
 
             //quaidProJsonFile = quaidProJsonFile + coloredAaya + '{{%ayanumber "Hello" %}}' + ayaArr[ayaIndex].index + '{{% /ayanumber%}}' + '{{%expand "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
 
-            quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"'+ ayaArr[ayaIndex].index +'"%}}' + ayaArr[ayaIndex].text + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
+            quaidProJsonFile = quaidProJsonFile + '{{%popup "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /popup%}}' + "{{%ayat" + '"'+ ayaArr[ayaIndex].index +'"%}}' + ayaArr[ayaIndex].text  +"{{% /ayat%}}";
 
 
             

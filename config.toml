@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Read Quran"
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+timeout = "90000"
 
 # For search functionality
 [outputs]
@@ -49,3 +50,5 @@ home = [ "HTML", "RSS", "JSON"]
   custom_css = ["css/foo.css", "css/bar.css","css/my-custom.css"]
   # Change the title separator. Default to "::".
   titleSeparator = "-"
+
+  

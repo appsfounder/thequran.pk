@@ -1,0 +1,73 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+
+<div style="border-bottom: 2px solid #ebd6ae; width: 100%; height: 20px;"></div>
+    <!-- Trigger/Open The Modal -->
+    <button class="myBtn_multi urdu-fonts" dir="rtl"><i style="font-size:x-medium; color: #5b003f;" class="fas fa-eye"></i> </button>
+
+    {{ $comString := .Inner | plainify}}
+
+    <!-- The Modal -->
+    <div class="modal modal_multi">
+
+        <!-- Modal content -->
+        <div class="modal-content urdu-fonts" dir="rtl">
+            <span class="close close_multi">×</span>
+            <p style="text-align: center; font-weight: bold;">آیت میں استعمال شدہ قوائد</p>
+
+            <table >
+                <tr>
+                <th class="urdu-fonts" style="text-align: center;">قوائد</th>
+                <th class="urdu-fonts" style="text-align: center;">رنگ</th>
+                </tr>
+                  {{range split $comString ","}}
+                  
+          
+                     {{ if hasPrefix . "#" }} 
+          
+                     
+                  
+                      <td class="urdu-fonts" style="text-align: center;">
+          
+                        <div style="width: 50px; height: 50px; background-color: {{ .  }}; border-radius: 50%;"></div>
+                    
+                    <!--
+          
+                                  <button id="button" style="border-radius: 50%; background-color: #f7f7f7;  color: #ff7c5c;    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);"><i style="font-size:x-small; padding-right: 10px; padding-left: 10px; padding-bottom: 15px; color: #ff7c5c;" class="fas fa-play"></i></button>
+          
+                    <audio id="player">
+                      <source src='/media/{{ . | relURL }}' type='audio/mpeg'/>
+                    </audio>
+                 -->
+                 
+                 
+                 
+                  </td>
+                  </tr>
+                      
+          
+                     {{else}}
+          
+                    <tr>
+                     <td> {{.}}</td>
+          
+                     
+                     
+                  {{end}}
+          
+                
+          
+                  {{end}}
+          
+                </table>
+
+
+
+
+
+        </div>
+
+    </div>
+
+    
+    
