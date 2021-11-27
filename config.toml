@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Read Quran"
 # Change the default theme to be use when building the site with Hugo
@@ -23,24 +23,24 @@ home = [ "HTML", "RSS", "JSON"]
   disableSearch = true
   # Javascript and CSS cache are automatically busted when new version of site is generated.
   # Set this to true to disable this behavior (some proxies don't handle well this optimization)
-  disableAssetsBusting = false
+  disableAssetsBusting = true
   # Set this to true to disable copy-to-clipboard button for inline code.
   disableInlineCopyToClipBoard = false
   # A title for shortcuts in menu is set by default. Set this to true to disable it.
-  disableShortcutsTitle = false
+  disableShortcutsTitle = true
   # If set to false, a Home button will appear below the search bar on the menu.
   # It is redirecting to the landing page of the current language if specified. (Default is "/")
-  disableLandingPageButton = false
+  disableLandingPageButton = true
   # When using mulitlingual website, disable the switch language button.
-  disableLanguageSwitchingButton = false
+  disableLanguageSwitchingButton = true
   # Hide breadcrumbs in the header and only show the current page title
-  disableBreadcrumb = false
+  disableBreadcrumb = true
   # If set to true, prevents Hugo from including the mermaid module if not needed (will reduce load times and traffic)
-  disableMermaid = false
+  disableMermaid = true
   # Specifies the remote location of the mermaid js
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   # Hide Next and Previous page buttons normally displayed full height beside content
-  disableNextPrev = false
+  disableNextPrev = true
   # Order sections in menu by "weight" or "title". Default to "weight"
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".

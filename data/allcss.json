@@ -1,0 +1,14 @@
+{
+    "styles": [
+      "css/nucleus.css",
+      "css/fontawesome-all.min.css",
+      "css/hybrid.css",
+      "css/featherlight.min.css",
+      "css/perfect-scrollbar.min.css",
+      "css/auto-complete.css",
+      "css/atom-one-dark-reasonable.css",
+      "css/theme.css",
+      "css/tabs.css",
+      "css/hugo-theme.css"
+    ]
+  }
