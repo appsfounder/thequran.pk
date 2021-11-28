@@ -13,6 +13,13 @@
     font-style: normal;
     src: url(../fonts/Jameel-Noori-Nastaleeq-Kasheeda.woff?#iefix) format('woff'), url(../fonts/Jameel-Noori-Nastaleeq-Kasheeda.woff) format('woff'), url(../fonts/Jameel-Noori-Nastaleeq-Kasheeda.ttf) format('truetype');
   }   
+  
+  .besmellah-fonts{
+    font-family: arabic-fonts, Helvetica, sans-serif;
+    text-align: center;
+    color: #5b003f;
+  }
+
 
   .urdu-fonts{
     font-family: noor-fonts, Helvetica, sans-serif;
