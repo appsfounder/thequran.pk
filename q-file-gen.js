@@ -65,7 +65,8 @@ productCatalogFromJson.result.text.forEach(obj => {
 
         });
 
-        quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"'+ `${key}` +'"%}}' + `${value}` + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
+        //quaidProJsonFile = quaidProJsonFile + "{{%ayat" + '"'+ `${key}` +'"%}}' + `${value}` + "{{% /ayat%}}" + '{{%expand "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /expand%}}';
+        quaidProJsonFile = quaidProJsonFile + '{{%popup "'+ "آیت میں استعمال شدہ قوائد" +'" %}}' + quaidContent + '{{% /popup%}}' + "{{%ayat" + '"'+ `${key}` +'"%}}' + `${value}` + "{{% /ayat%}}";
 
 
 

@@ -27,9 +27,32 @@
             {{ end }}
 
     {{end}}
-    
+
+
+
+    <!--Rearrange Other Symbols-->
+
+    {{ if in $coloredAyat "ۗ" }}
+
+                {{$matchWords := "ۗ"}}
+
+                {{ $splitedArray := split $coloredAyat "ۗ" }}
+                {{ $class := "spc" }}
+
+                {{ $replacement := printf "%s%s%s%s%s" "<span class='" $class "'>" $matchWords "</span>" }}
+
+                {{ $coloredAyat =  delimit $splitedArray $replacement }}
+
+                        
+            
+    {{ end }}
 
     <span style="font-size: 28px;">{{ $coloredAyat}}</span>
+
+
+    
+
+
 
 
 
@@ -38,7 +61,7 @@
 
 <span>{{$expandMessage := T "Expand-title"}}
     {{ if .IsNamedParams }}
-    <span class="ayah"> {{.Get "default" | default $expandMessage}}</span>
+    <span class="ayah"> {{.Get "default" | default $expandMessage}} </span>
     {{else}}
     <span class="ayah">{{.Get 0 | default $expandMessage}}</span>
     {{end}}
